@@ -1,4 +1,4 @@
-// Accepted
+// Accepted - UVa 11747 Heavy Cycle Edges
 
 import java.util.Scanner;
 import java.util.Arrays;

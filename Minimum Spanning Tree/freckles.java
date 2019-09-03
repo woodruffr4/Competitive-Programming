@@ -1,4 +1,4 @@
-// Accepted
+// Accepted - UVa 10034 Freckles
 
 import java.util.Scanner;
 import java.util.List;

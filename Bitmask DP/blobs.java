@@ -1,4 +1,4 @@
-// Accepted
+// Accepted - UVa 11391 Blobs in the Board
 
 import java.util.Scanner;
 import java.util.Arrays;
